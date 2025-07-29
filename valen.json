@@ -1,0 +1,401 @@
+{
+  "title": "Ejemplo de Apps",
+  "description": "Página de ejemplo con 5 aplicaciones",
+  "theme": "light",
+  "email": "valentina@laentropiadevalen.com",
+  "url": "https://ejemplo.com",
+  "icon": "https://ejemplo.com/icon.png",
+  "apps": [
+    {
+      "url": "https://www.youtube.com/@laentropiadevalen",
+      "name": "Canal principal",
+      "description": "Canal principal, donde empezo el fin del feminismo",
+      "icon": "https://avatars.githubusercontent.com/u/84575656",
+      "type": "web",
+      "teches": [
+        {
+          "name": "Angular",
+          "url": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+        },
+        {
+          "name": "TypeScript",
+          "url": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/valen/valinicio.gif",
+        "detailedGif": "https://yt3.googleusercontent.com/3M22NfFTetQe3gdXcpz5fIKD8BntH0UO5oBqPjTX-7LaBlDCgmMhMPGG0tMSbcwstBkQueFI_Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "soundEffect": "/assets/wii/valen/intro.mp3"
+      },
+      "tinderData": {
+        "distance": 5,
+        "date": "2023-06-01T00:00:00Z",
+        "tinderDescription": "App Uno en Tinder",
+        "tinderImages": [
+          "https://app1.com/tinder1.png",
+          "https://app1.com/tinder2.png"
+        ]
+      },
+      "win8Data": {
+        "win8Image": "https://app1.com/win8.png",
+        "color": "#FF0000",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "1,1"
+      }
+    },
+    {
+      "url": "https://fundaciondefensahombresmaltratados.es/",
+      "name": "Fundacion hombres maltratados",
+      "description": "Fundacion para la defensa de hombres maltratados",
+      "icon": "https://app2.com/icon.png",
+      "type": "mobile",
+      "teches": [
+        {
+          "name": "React Native",
+          "url": "https://img.shields.io/badge/React_Native-blue"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/valen/fundacion_main.gif",
+        "detailedGif": "/assets/wii/valen/fundacion_detail.gif",
+        "soundEffect": "/assets/wii/valen/fundacion_sound.mp3"
+      },
+      "tinderData": {
+        "distance": 10,
+        "date": "2022-12-15T00:00:00Z"
+      },
+      "win8Data": {
+        "win8Image": "https://app2.com/win8.png",
+        "color": "#00FF00",
+        "isBlack": true,
+        "size": "1x2",
+        "position": "2,1"
+      }
+    },
+    {
+      "url": "https://www.instagram.com/valensinfiltro_/",
+      "name": "Instagram",
+      "description": "Mi Instagram, donde subo reels antifeministas e historias y fotos de mi crisis de los 30",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Finstagram-logo-old-4.png&f=1&nofb=1&ipt=89ebb824c51bab47dab115ef5b9c75709afcc40121f755c236e9ad4f6f392337",
+        "detailedGif": "/assets/wii/valen/story.gif"
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/@lacatarsisdevalen",
+      "name": "La furia",
+      "description": "Podcast que debería hacer con Danak pero se puso a chambear",
+      "icon": "https://i.ytimg.com/vi/wmcDtlLXRoI/maxresdefault.jpg",
+      "type": "shell",
+      "teches": [
+        { "name": "Bash", "url": "https://img.shields.io/badge/Bash-black" }
+      ],
+      "wiiData": {
+        "menuImage": "https://i.ytimg.com/vi/wmcDtlLXRoI/maxresdefault.jpg",
+        "detailedGif": "/assets/wii/valen/furia_detail.gif",
+        "soundEffect": "/assets/wii/valen/furia_sound.mp3"
+      },
+      "tinderData": {
+        "distance": 20,
+        "date": "2020-01-01T00:00:00Z"
+      },
+      "win8Data": {
+        "win8Image": "https://app4.com/win8.png",
+        "color": "#FFFF00",
+        "isBlack": true,
+        "size": "1x1",
+        "position": "4,1"
+      }
+    },
+    {
+      "url": "https://youtu.be/XzqOKImd76U",
+      "name": "Campaña de las plumas blancas",
+      "description": "Video sobre el origen del feminismo y por qué nunca fue bueno",
+      "icon": "https://i.ytimg.com/vi/XzqOKImd76U/mqdefault.jpg",
+      "type": "other",
+      "teches": [
+        {
+          "name": "Python",
+          "url": "https://img.shields.io/badge/Python-yellow"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://i.ytimg.com/vi_webp/XzqOKImd76U/maxresdefault.webp",
+        "detailedGif": "/assets/wii/valen/pluma.gif"
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
+    },
+    {
+      "url": "https://discord.gg/eZTPj6tFgT",
+      "name": "Discord",
+      "description": "Discord de el universo de Valen, no sé usarlo, soy una señora mayor",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://www.gratistodo.com/wp-content/uploads/2021/07/Discord-390x220.jpg",
+        "detailedGif": "/assets/wii/valen/discord_detatil.png",
+        "soundEffect": "/assets/wii/valen/discord.mp3"
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://kick.com/laentropiadevalen",
+      "name": "Kick",
+      "description": "Plataforma de directos secundaria a Youtube",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgagadget.com%2Fmedia%2Fpost_big%2Ftryw.jpg&f=1&nofb=1&ipt=64252f9150e3a5fab730e8189c55c800e504405edb400ba124029800161be8c6",
+        "detailedGif": "https://files.kick.com/images/channel/31642012/banner_image/669e71d4-78b3-4da8-a9aa-911dfb80a4bf"
+
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://www.stop-abolicion.com/",
+      "name": "#StopAbolicion",
+      "description": "Organizacion creada para defender la libertad de ejercer de las trabajadoras sexuales",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://i.ytimg.com/vi/PC2U--kj01o/maxresdefault.jpg",
+        "detailedGif": "/assets/wii/valen/luna_abol.gif"
+
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://amzn.to/4kxd6ld",
+      "name": "NADIE MÁS Condenados por Acusacion",
+      "description": "Libro que recopila casos de hombres condenados por acusaciones falsas",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://m.media-amazon.com/images/I/71pesUwOfbL._SY385_.jpg",
+        "detailedGif": "/assets/wii/valen/valen_libro.gif"
+
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://x.com/entropiadevalen",
+      "name": "Twitter",
+      "description": "Mi, me funan por rigurosa y por no querer unirme a un bando",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://www.twenvy.com/wp-content/uploads/2022/08/Twitter-Logo-Meaning-1024x369.jpg",
+        "detailedGif": "/assets/wii/valen/twitterbanner.png",
+        "soundEffect": "/assets/wii/valen/guerra.mp3"
+
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCUrM3UhigblHEKFVMB-KyOA",
+      "name": "Una última y nos vamos",
+      "description": "Podcast de mujeres con lada amores, contamos anécdotas que mandan por correo",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://yt3.googleusercontent.com/Nxg_dSbL-0MqZ41vREjyZTyz806hJzlaKvdb1O6shdOAFXxe4Mnw_9RaeqxpX_IO7ySO2jys4A=s160-c-k-c0x00ffffff-no-rj",
+        "detailedGif": "/assets/wii/valen/ultima_detail.gif",
+        "soundEffect": "/assets/wii/valen/ultima_sound.mp3"
+
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    },
+    {
+      "url": "https://kick.com/laentropiadevalen/clips/clip_01J3K56AB9PHB8HYXT116BD4KM",
+      "name": "La solucion final",
+      "description": "Yendo a defender la raza aria hiperborea frente a las marronas que nos joden el imperio austral",
+      "icon": "https://lueyo.github.io/virus-policia/logo3.png",
+      "nsfw": true,
+      "type": "other",
+      "teches": [
+        { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/valen/gerardo_main.gif",
+        "detailedGif": "/assets/wii/valen/gerardo_detail.gif",
+        "soundEffect": "/assets/wii/valen/gerardo_sound.mp3"
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
+    },
+    {
+      "url": "https://ngl.link/valensinfiltro_",
+      "name": "Preguntas anonimas",
+      "description": "Deja tus preguntas anonimas y me horrorizo con ellas",
+      "icon": "https://app3.com/icon.png",
+      "type": "desktop",
+      "teches": [
+        {
+          "name": "Electron",
+          "url": "https://img.shields.io/badge/Electron-gray"
+        }
+      ],
+      "wiiData": {
+        "menuImage": "https://framerusercontent.com/images/v9v7nmCuQWuKMhx9ajbiGlhCrD4.png",
+        "detailedGif": "/assets/wii/valen/preguntas.png"
+
+      },
+      "tinderData": {
+        "distance": 2,
+        "date": "2021-03-10T00:00:00Z",
+        "tinderImages": ["https://app3.com/tinder.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app3.com/win8.png",
+        "color": "#0000FF",
+        "isBlack": false,
+        "size": "2x1",
+        "position": "3,1"
+      }
+    }
+  ]
+}
